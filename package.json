@@ -1,0 +1,18 @@
+{
+    "title": "Solarized Light",
+    "name": "solarized-light",
+    "description": "Solarized Light Theme for Brackets",
+    "version": "1.0.0",
+    "author": "Ted Jenkins <edwardtjenkins@gmail.com",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "main.less"
+    }
+}
