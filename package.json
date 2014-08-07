@@ -7,7 +7,7 @@
     "homepage": "",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/jsbalrog/brackets-solarized-light.git"
     },
     "engines": {
         "brackets": ">=0.42.0"
